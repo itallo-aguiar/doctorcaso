@@ -1,0 +1,6 @@
+{
+  "name": "Consultório Dr. Itallo — PBL 4 · Plantão Integrado",
+  "description": "Simulador clínico interativo PBL 4 (Dias 1 e 2: Infectologia, Toxicologia, Ginecologia e Obstetrícia) com voz de paciente via Gemini TTS, Atlas Visual em até 4K e Preceptor IA multi-turnos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
